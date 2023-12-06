@@ -1,6 +1,7 @@
 #include<stdio.h>
 int calculate(int a , int b)
 {
-  //some calculation
-return a*b*2 -10;
+  //A combination of both calculation
+return a*b*2 -10 +(a+b);
+
 }
